@@ -37,7 +37,7 @@
 </head>
 <body style="background-color: ArialBlack;">
   <div class="header">
-    <h1 style="text-align: center; background-color: LightCyan;">GitHub Profile README</h1>
+    <h1 style="text-align: center; background-color: ArialBlack;">GitHub Profile README</h1>
   </div>
   <div class="section">
     <div style="display: flex; align-items: center; justify-content: space-between;">
