@@ -35,9 +35,9 @@
 
   </style>
 </head>
-<body style="background-color: ArialBlack;">
+<body style="background-color: CyanBlue;">
   <div class="header">
-    <h1 style="text-align: center; background-color: ArialBlack;">GitHub Profile README</h1>
+    <h1 style="text-align: center; background-color: CyanBlue;">GitHub Profile README</h1>
   </div>
   <div class="section">
     <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -46,7 +46,7 @@
         <h2 class="section-header" style="text-align: center; background-color: LightCyan;">Pavan Kumar Madavaram</h2>
         <h3 class="section-header">Contact Information</h3>
         <p class="section-content">
-        <a href="https://mail.google.com/">Email: madavarp@mail.gvus.edu</a>
+        <a href="https://mail.google.com/">Email: madavarp@mail.gvsu.edu</a>
         </p>
         <p class="section-content">
         <a href="Twitter: https://twitter.com/pawan_khumar91"> Twitter: pawan_khumar91 </a>
@@ -89,8 +89,13 @@
   <div class="section">
     <h2 class="section-header">ProjTech Github io Page</h2>
     <p class="section-content">
-      <a href= "https://calebcheruiyc.github.io/ProjTech/"> https://calebcheruiyc.github.io/ProjTech/
+      <a href= "https://mounicamannam.github.io/GVSU-CIS641-ProjTech/"> https://mounicamannam.github.io/GVSU-CIS641-ProjTech/
       </a>
-    </p>
-    
+    </p> 
+  <div >
+
+ <div class="section">
+    <h2 class="section-header">Project Overview</h2>
+    <p> For my term project in this class, we are working on an Online Antique Bidding System, which I believe has been a valuable learning experience and a practical application of the skills I've acquired during the semester. This project aims to create a user-friendly platform where sellers can auction their antique items, and potential buyers can bid on these items. The system is designed to facilitate smooth communication between sellers and buyers, ensuring a transparent and secure auction process. It involves three key user roles: admin, sellers, and buyers. The admin oversees the entire system, managing user and auction details, while sellers list their antique items for bidding. Buyers, on the other hand, can place bids on their desired products and, if they win the auction, proceed to make a purchase. Our platform is built on the ASP .Net framework and is backed by a SQL database to store user-specific information. This project not only demonstrates my proficiency in web development but also showcases my ability to create solutions that streamline processes and enhance user experiences. It has been a rewarding endeavor, and I'm confident it will provide practical benefits to those interested in antique auctions and similar markets.
+    </p> 
   <div >
